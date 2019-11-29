@@ -8,6 +8,7 @@
     账号：<input type="text" name="account" value="马云"><br><br>
     密码：<input type="text" name="password" value=""><br><br>
     <input type="submit" value="登录"><a href="Select.jsp">下拉框</a>
+    <label>你好</label>
   </form>
   </body>
 </html>
